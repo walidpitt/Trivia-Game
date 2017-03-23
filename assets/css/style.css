@@ -1,0 +1,38 @@
+body{
+background-image:url(../images/237897-Carolina-Panthers-Image.jpg);
+z-index: 0;
+}
+
+#startpage{
+border:2px solid black;
+margin-top: 100px;
+	 text-align: center;
+}
+
+#timetron{
+border:2px solid black;
+margin-top: 100px;
+	 text-align: center;
+	 
+	 
+}
+#donepanel
+{
+
+border:2px solid black;
+
+}
+
+#quest{
+
+border:2px solid black;
+	
+}
+
+
+
+.end{
+border:2px solid black;
+margin-top: 100px;
+	 text-align: center;
+}
